@@ -1,0 +1,9 @@
+Buenavista Asociados — sitio para subir
+
+1. Descomprime este zip.
+2. Entra al administrador de tu hosting (cPanel, FTP o el administrador de archivos).
+3. Abre la carpeta pública del dominio (suele llamarse public_html).
+4. Sube TODO el contenido: index.html, las carpetas css, js, brand, photos y proyectos, y favicon.svg.
+5. La página principal es index.html. No subas solo ese archivo: sin las carpetas no se ven el logo ni las fotos.
+
+El formulario Cotizar abre WhatsApp de Oswaldo Salazar (938 389 931). No hace falta base de datos ni instalar nada.
